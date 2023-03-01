@@ -18,6 +18,7 @@ description: Developer Blog
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://mskim7795.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 repository: mskim7795/mskim7795.github.io # for github-metadata
+published: true
 
 permalink: pretty
 
@@ -180,3 +181,4 @@ compress_html:
   #   envs: all
 
 remote_theme: just-the-docs/just-the-docs
+futrue: true
